@@ -12,7 +12,7 @@
 <img src="images/Galaxy.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[SuperNova]
 <img src="images/Galaxycat.jpg?raw=true"/>
 
 ---
