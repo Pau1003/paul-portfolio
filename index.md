@@ -12,8 +12,8 @@
 <img src="images/Galaxy.jpg?raw=true"/>
 
 ---
-[SuperNova]
-<img src="images/Galaxycat.jpg?raw=true"/>
+[Queen]
+<img src="images/Queen.jpg?raw=true"/>
 
 ---
 
