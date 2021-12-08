@@ -4,11 +4,11 @@
 
 ### My Creative Works  
 
-[Project 1 Title](/sample_page)
+[Don't Let Me Down]
 <img src="images/Dont Let me down.jpg?raw=true"/>
 
 ---
-[Project 2 Title]
+[Galaxy]
 <img src="images/Galaxy.jpg?raw=true"/>
 
 ---
