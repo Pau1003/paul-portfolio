@@ -16,6 +16,8 @@
 <img src="images/Queen.jpg?raw=true"/>
 
 ---
+[Earth]
+<img src="images/Earth.jpg?raw=true"/>
 
 ### Category Name 2
 
