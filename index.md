@@ -19,6 +19,9 @@
 [Earth]
 <img src="images/Earth.jpg?raw=true"/>
 
+---
+[Pac Man]
+<img src="image/Pac.jpg?raw=true"/>
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
