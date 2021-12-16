@@ -29,7 +29,7 @@
 
 ---
 [Galaxy Cat]
-<img src="images/Halo.jpg?raw=true"/>
+<img src="images/Cat.jpg?raw=true"/>
 
 
 - [Project 1 Title](http://example.com/)
