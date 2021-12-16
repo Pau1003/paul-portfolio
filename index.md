@@ -24,8 +24,13 @@
 <img src="images/Pac.jpg?raw=true"/>
 
 ---
-[Lucy In The Sky
+[Lucy In The Sky]
 <img src="images/Lucy.jpg?raw=true"/>
+
+---
+[Galaxy Cat]
+<img src="images/Halo.jpg?raw=true"/>
+
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
