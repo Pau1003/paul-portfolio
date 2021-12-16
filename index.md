@@ -22,7 +22,10 @@
 ---
 [Pac Man]
 <img src="images/Pac.jpg?raw=true"/>
-### Category Name 2
+
+---
+[Lucy In The Sky
+<img src="images/Lucy.jpg?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
